@@ -1,7 +1,7 @@
 /*
 create table from all_sessions.csv
-
 note: I used the GUI to populate the table
+due to issues with containerized PGAdmin4.
 */
 DROP TABLE IF EXISTS sessions;
 
